@@ -2,4 +2,4 @@
 
 require_relative "../lib/environment"
 
-api.get_classes
+API.get_classes
