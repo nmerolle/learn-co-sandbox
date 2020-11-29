@@ -2,3 +2,4 @@
 
 require_relative "../lib/environment"
 
+api.get_starships
