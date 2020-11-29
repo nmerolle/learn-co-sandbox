@@ -1,4 +1,5 @@
 require 'pry'
+require 'rest-client'
 
 require_relative "./dnd5e_class_spells/version"
 require_relative "./dnd5e_class_spells/cli.rb"
