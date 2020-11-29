@@ -5,3 +5,4 @@ require_relative "./cli.rb"
 require_relative "./api.rb"
 require_relative "./klass.rb"
 require_relative "./spell.rb"
+
