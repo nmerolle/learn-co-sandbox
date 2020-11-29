@@ -16,7 +16,10 @@ Service Classes
 -CLI
 -API
 
-Model Classes
+Model Classes:
 
--Classes
--Spells
+Classes:
+Spell
+  -Spell description
+  
+
