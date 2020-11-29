@@ -15,3 +15,8 @@ DnD 5e
 Service Classes
 -CLI
 -API
+
+Model Classes
+
+-Classes
+-Spells
