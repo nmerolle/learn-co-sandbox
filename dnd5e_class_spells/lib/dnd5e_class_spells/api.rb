@@ -4,6 +4,7 @@ class API
 
   def self.get_classes
     response = RestClient(BASE_URL + "classes")
-
+    binding.pry
+  end
 
 end
